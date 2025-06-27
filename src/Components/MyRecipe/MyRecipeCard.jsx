@@ -64,7 +64,7 @@ const MyRecipeCard = ({ recipe, recipes, setRecipes }) => {
 
   return (
     <div>
-    <div className='card rounded-2xl p-2  h-8/12 overflow-hidden object-cover  shadow-md border hover:shadow-lg transition duration-300 space-y-5'>
+    <div className='card rounded-2xl p-2  overflow-hidden object-cover  shadow-md border hover:shadow-lg transition duration-300 space-y-5'>
           <img src={recipe.image} alt={recipe.title} className="h-[250px] object-cover w-full p-2 rounded-xl" />
       <h2 className="text-xl font-bold">{recipe.title}</h2>
       <p><strong>Ingredients:</strong> {recipe.ingredients}</p>
@@ -82,7 +82,7 @@ const MyRecipeCard = ({ recipe, recipes, setRecipes }) => {
         </button>
         <button
           onClick={() => setUpdateRecipe(recipe)}
-          className="bg-blue-500 text-white px-4 py-1 rounded"
+          className="bg-blue-500 text-base-100 px-4 py-1 rounded"
         >
           Update
         </button>
