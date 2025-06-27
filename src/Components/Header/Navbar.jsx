@@ -192,7 +192,7 @@ const Navbar = () => {
   );
 
   return (
-    <nav className="bg-base-100 text-base-content shadow-md sticky top-0 z-50">
+    <nav className="bg-orange-100 text-base-content shadow-md sticky top-0 z-50 rounded-xl">
       <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
         {/* Logo */}
          <Link
