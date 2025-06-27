@@ -71,10 +71,10 @@ const AllRecipe = () => {
             value={sortOrder}
             onChange={(e) => setSortOrder(e.target.value)}
           >
-            <option value="">Default</option>
-            <option value="asc">A-Z (Title)</option>
-            <option value="desc">Z-A (Title)</option>
-            <option value="top">Top Liked</option>
+            <option className='text-accent' value="">Default</option>
+            <option className='text-accent'  value="asc">A-Z (Title)</option>
+            <option className='text-accent' value="desc">Z-A (Title)</option>
+            <option className='text-accent' value="top">Top Liked</option>
           </select>
         </div>
       </div>
