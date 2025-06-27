@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "The Best Comfort Food Recipes From 2024",
+    "description": "A collection of hearty and comforting recipes to warm your soul.",
+    "videoId": "apCEspUkfro",
+    "thumbnail": "https://img.youtube.com/vi/apCEspUkfro/hqdefault.jpg"
+  },
+  {
+    "id": 2,
+    "title": "5 Easy 30-Minute Dinner Ideas",
+    "description": "Quick and delicious dinner recipes you can make in just 30 minutes.",
+    "videoId": "OTAwvdRJn6M",
+    "thumbnail": "https://img.youtube.com/vi/OTAwvdRJn6M/hqdefault.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Nobody knows this recipe! My grandmother taught me.",
+    "description": "A simple and delicious family recipe passed down through generations.",
+    "videoId": "6iFTwmZGKIw",
+    "thumbnail": "https://img.youtube.com/vi/6iFTwmZGKIw/hqdefault.jpg"
+  },
+  {
+    "id": 4,
+    "title": "9 Easy Dinner Recipes",
+    "description": "A variety of easy-to-make dinner recipes for any night of the week.",
+    "videoId": "2WlcigNREec",
+    "thumbnail": "https://img.youtube.com/vi/2WlcigNREec/hqdefault.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Food Network Chefs' Top 10 Fried Food Recipe Videos",
+    "description": "Top fried food recipes from renowned Food Network chefs.",
+    "videoId": "LCpoIhukXM4",
+    "thumbnail": "https://img.youtube.com/vi/LCpoIhukXM4/hqdefault.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Food Network Chefs' Top 10 Recipe Videos with 10 Ingredients or Less",
+    "description": "Delicious recipes using 10 ingredients or fewer from Food Network chefs.",
+    "videoId": "lcR4W1Jt2Vk",
+    "thumbnail": "https://img.youtube.com/vi/lcR4W1Jt2Vk/hqdefault.jpg"
+  }
+]
